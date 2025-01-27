@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Зал1",
+    "LibraryName": "Библиотека",
+    "Specialization": "123",
+    "Capacity": 10,
+    "OccupiedSeats": 2,
+    "Readers": [
+      {
+        "FIO": "Читатель 1",
+        "PhoneNumber": "1231131",
+        "RegistrationDate": "27.01.2025",
+        "TicketNumber": "Ч-0001",
+        "DateOfBirth": "11.11.1111",
+        "Education": "Высшее",
+        "HallName": "Зал1",
+        "BorrowedBooks": [
+          {
+            "Title": "Книга1",
+            "Author": "Автор1",
+            "Year": 1904,
+            "Code": "BK-0001",
+            "IssueDate": "27.01.2025",
+            "ReceiptDate": "27.01.2025",
+            "HallName": "Зал1",
+            "Copies": 4,
+            "TimesBorrowed": 1,
+            "IsSingleCopy": false
+          }
+        ]
+      },
+      {
+        "FIO": "Читатель2",
+        "PhoneNumber": "11112121",
+        "RegistrationDate": "27.01.2025",
+        "TicketNumber": "Ч-0002",
+        "DateOfBirth": "11.11.1111",
+        "Education": "Среднее",
+        "HallName": "Зал1",
+        "BorrowedBooks": [
+          {
+            "Title": "Книга2",
+            "Author": "Автор2",
+            "Year": 111,
+            "Code": "BK-0002",
+            "IssueDate": "27.01.2025",
+            "ReceiptDate": "27.01.2025",
+            "HallName": "Зал1",
+            "Copies": 0,
+            "TimesBorrowed": 1,
+            "IsSingleCopy": true
+          }
+        ]
+      }
+    ]
+  }
+]

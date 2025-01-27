@@ -1,0 +1,10 @@
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csproj.AssemblyReference.cache
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagement.MainForm.resources
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.Properties.Resources.resources
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csproj.GenerateResource.cache
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\bin\Debug\LibraryManagment.exe.config
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\bin\Debug\LibraryManagment.exe
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\bin\Debug\LibraryManagment.pdb
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.exe
+C:\Users\Enoteg\Desktop\Курсач\LibraryManagment\LibraryManagment\obj\Debug\LibraryManagment.pdb

@@ -1,0 +1,14 @@
+[
+  {
+    "BookTitle": "Книга1",
+    "ReaderFIO": "Читатель 1",
+    "IssueDate": "27.01.2025",
+    "DueDate": "03.02.2025"
+  },
+  {
+    "BookTitle": "Книга2",
+    "ReaderFIO": "Читатель2",
+    "IssueDate": "27.01.2025",
+    "DueDate": "03.02.2025"
+  }
+]

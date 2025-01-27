@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|c:\\users\\enoteg\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\libapp\\libapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addhallform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addhallform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addhallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addhallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addbookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addbookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addhallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addhallform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addreaderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addreaderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\libapp\\addreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\addreaderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|c:\\users\\enoteg\\desktop\\\u043A\u0443\u0440\u0441\u0430\u0447\\libapp\\libapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6F187B-5DC4-43E2-B548-C39884D77B1F}|LibApp\\LibApp.csproj|solutionrelative:libapp\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Logger.cs",
+              "RelativeDocumentMoniker": "LibApp\\Logger.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Logger.cs",
+              "RelativeToolTip": "LibApp\\Logger.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T17:41:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Hall.cs",
+              "RelativeDocumentMoniker": "LibApp\\Hall.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Hall.cs",
+              "RelativeToolTip": "LibApp\\Hall.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:39:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddBookForm.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddBookForm.cs",
+              "RelativeToolTip": "LibApp\\AddBookForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAawDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:33:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBookForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddBookForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddBookForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddBookForm.Designer.cs",
+              "RelativeToolTip": "LibApp\\AddBookForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:39:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddReaderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddReaderForm.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddReaderForm.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddReaderForm.cs",
+              "RelativeToolTip": "LibApp\\AddReaderForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:42:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddReaderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddReaderForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddReaderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddReaderForm.Designer.cs",
+              "RelativeToolTip": "LibApp\\AddReaderForm.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwKkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:09:07.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Program.cs",
+              "RelativeToolTip": "LibApp\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:22:21.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddHallForm.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddHallForm.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddHallForm.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddHallForm.cs",
+              "RelativeToolTip": "LibApp\\AddHallForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:55:01.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddHallForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddHallForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddHallForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddHallForm.Designer.cs",
+              "RelativeToolTip": "LibApp\\AddHallForm.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv4IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:55:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LibApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Form1.cs",
+              "RelativeToolTip": "LibApp\\Form1.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAAOIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:57:42.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "LibApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Form1.Designer.cs",
+              "RelativeToolTip": "LibApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAhwHgBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:21:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddHallForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddHallForm.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddHallForm.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddHallForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LibApp\\AddHallForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:54:58.172Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssuedBook.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\IssuedBook.cs",
+              "RelativeDocumentMoniker": "LibApp\\IssuedBook.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\IssuedBook.cs",
+              "RelativeToolTip": "LibApp\\IssuedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:23:34.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Book.cs",
+              "RelativeDocumentMoniker": "LibApp\\Book.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Book.cs",
+              "RelativeToolTip": "LibApp\\Book.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:59:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Reader.cs",
+              "RelativeDocumentMoniker": "LibApp\\Reader.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Reader.cs",
+              "RelativeToolTip": "LibApp\\Reader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:58:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddReaderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddReaderForm.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddReaderForm.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddReaderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LibApp\\AddReaderForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:42:36.989Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LibApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LibApp\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T18:57:36.408Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddBookForm.cs",
+              "RelativeDocumentMoniker": "LibApp\\AddBookForm.cs",
+              "ToolTip": "C:\\Users\\Enoteg\\Desktop\\\u041A\u0443\u0440\u0441\u0430\u0447\\LibApp\\LibApp\\AddBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LibApp\\AddBookForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:23:04.378Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

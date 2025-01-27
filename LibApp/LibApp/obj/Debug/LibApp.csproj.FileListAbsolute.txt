@@ -1,0 +1,16 @@
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.csproj.AssemblyReference.cache
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.AddBookForm.resources
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.AddReaderForm.resources
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.MainForm.resources
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.Properties.Resources.resources
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.csproj.GenerateResource.cache
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.csproj.CoreCompileInputs.cache
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\bin\Debug\LibApp.exe.config
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\bin\Debug\LibApp.exe
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\bin\Debug\LibApp.pdb
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.csproj.Up2Date
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.exe
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.pdb
+C:\Users\Enoteg\Desktop\Курсач\LibApp\LibApp\obj\Debug\LibApp.AddHallForm.resources

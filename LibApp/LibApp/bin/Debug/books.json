@@ -1,0 +1,26 @@
+[
+  {
+    "Title": "Книга1",
+    "Author": "Автор1",
+    "Year": 1904,
+    "Code": "BK-0001",
+    "IssueDate": "27.01.2025",
+    "ReceiptDate": "27.01.2025",
+    "HallName": "Зал1",
+    "Copies": 4,
+    "TimesBorrowed": 1,
+    "IsSingleCopy": false
+  },
+  {
+    "Title": "Книга2",
+    "Author": "Автор2",
+    "Year": 111,
+    "Code": "BK-0002",
+    "IssueDate": "27.01.2025",
+    "ReceiptDate": "27.01.2025",
+    "HallName": "Зал1",
+    "Copies": 0,
+    "TimesBorrowed": 1,
+    "IsSingleCopy": false
+  }
+]
